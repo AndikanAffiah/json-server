@@ -1,0 +1,16 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "a title",
+      "author": "Andikan",
+      "body": "this is my first post"
+    },
+    {
+      "id": "1",
+      "title": "second title",
+      "author": "captain",
+      "body": "this is my second post"
+    }
+  ]
+}
