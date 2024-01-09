@@ -180,5 +180,11 @@
       "author": "Felix Turner",
       "body": "Listening to the cosmic secrets carried by celestial particles."
     }
-  ]
+  ],
+  "create": {
+    "status": 200,
+    "data": {
+      "message": "Article Created Successfully"
+    }
+  }
 }
